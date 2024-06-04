@@ -1,6 +1,8 @@
 
 # MOVIE LIBRARY MANAGEMENT SYSTEM
 
+![photo_6267236052808875908_y](https://github.com/2003Madhuri/Movie/assets/109662506/44a7edac-dee0-4e10-8a48-98f02c3fd904)
+
 This is a movie library web application that allows users to sign up, sign in, search for movies, and create lists of their favorite movies. Users can make these lists either public or private. The movie data is fetched from the OMDB API.
 
 
@@ -11,13 +13,6 @@ The Registration Page requires users to provide their name, email, password, rep
 Upon successful login, users are directed to the Home Page, which features a navigation bar with options for searching movies, logging out, and displaying the username. The home page also includes an About Page with contact information and a footer with general site information and useful links.
 
 The Search Page allows users to search for movies by title using a search box. When a user clicks on a movie poster, the application displays detailed information about the movie, including its name, rating, actors, and description. Users can manage their watchlist by clicking the bookmark button to add a movie or the trashcan button to remove it.
-
-
-
-
-
-
-
 
 
 # Technologies Used
@@ -68,7 +63,7 @@ The Search Page allows users to search for movies by title using a search box. W
 
 #### Run the Project:
 
-In Eclipse, right-click on the project and select "Run on Server".
+- In Eclipse, right-click on the project and select "Run on Server".
 
 That's it! Your project should now be running.
 
@@ -100,7 +95,12 @@ That's it! Your project should now be running.
 - To use the API key, append it at the end of the API endpoint URL.
 - Replace the URL with the search "s" parameter because you are looking for movies by title.
 
-## Screenshots
+# Video of the Project:
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+https://github.com/2003Madhuri/Movie/assets/109662506/f7d916d9-34c1-41cc-9b37-179bded91b35
+
+# Contact
+
+Author: NARLAPATI DURGA NAGA VENKATA SAI MADHURI
+
 
