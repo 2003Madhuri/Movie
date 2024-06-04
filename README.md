@@ -1,12 +1,12 @@
 
-# MOVIE LIBRARY MANAGEMENT SYSTEM
+#                                                                                       MOVIE LIBRARY MANAGEMENT SYSTEM
 
 ![photo_6267236052808875908_y](https://github.com/2003Madhuri/Movie/assets/109662506/44a7edac-dee0-4e10-8a48-98f02c3fd904)
 
 This is a movie library web application that allows users to sign up, sign in, search for movies, and create lists of their favorite movies. Users can make these lists either public or private. The movie data is fetched from the OMDB API.
 
 
-# Features
+# Features:
 
 The Registration Page requires users to provide their name, email, password, repeat password, and contact number to create an account. Once registered, users can navigate to the Login Page, where they can sign in using their username and password.
 
@@ -15,7 +15,7 @@ Upon successful login, users are directed to the Home Page, which features a nav
 The Search Page allows users to search for movies by title using a search box. When a user clicks on a movie poster, the application displays detailed information about the movie, including its name, rating, actors, and description. Users can manage their watchlist by clicking the bookmark button to add a movie or the trashcan button to remove it.
 
 
-# Technologies Used
+# Technologies Used:
 
 ## Front-End Technologies:
 - HTML (Hypertext Markup Language)
@@ -32,7 +32,9 @@ The Search Page allows users to search for movies by title using a search box. W
 - MySQL (used to store user information upon registration)
 
 ## API:
+
 - OMDB API
+  
 # Steps to Set Up and Run the Project:
 
 #### Clone or Download the Repository:
@@ -44,9 +46,11 @@ The Search Page allows users to search for movies by title using a search box. W
 - Download and install Eclipse IDE for Enterprise Java and Web Developers from Eclipse Downloads  https://www.eclipse.org/downloads/packages/release/2022-06/r/eclipse-ide-enterprise-java-and-web-developers .
 
 #### Download Apache Tomcat:
+
 - Download Apache Tomcat 9 from Tomcat Downloads https://tomcat.apache.org/download-90.cgi.
 
 #### Configure Tomcat in Eclipse:
+
 - Upload Tomcat into Eclipse server.
 
 #### Install MySQL:
@@ -67,7 +71,7 @@ The Search Page allows users to search for movies by title using a search box. W
 
 That's it! Your project should now be running.
 
-# How to Create an API Key for the OMDb API
+# How to Create an API Key for the OMDb API:
 
 #### Navigate to OMDb API Website:
 
@@ -99,7 +103,7 @@ That's it! Your project should now be running.
 
 https://github.com/2003Madhuri/Movie/assets/109662506/f7d916d9-34c1-41cc-9b37-179bded91b35
 
-# Contact
+# Contact:
 
 Author: NARLAPATI DURGA NAGA VENKATA SAI MADHURI
 
